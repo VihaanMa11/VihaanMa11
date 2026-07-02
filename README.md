@@ -12,9 +12,7 @@
 ### 🚀 About Me
 
 - 💼 Software Developer at **A. Innovative Food Products Limited (AIFPL)** — building websites, AI automation tools (PO extractors, document parsers), and overseeing AI integration
-- 🍿 Director-level role at **Shareat Foods** (AIFPL's consumer FMCG brand) — marketing ops, social media, sales planning & digital infra
 - 🎓 B.Sc Data Science student at **Karnavati University (UIT)**, Ahmedabad
-- ☕ Co-run **Byte Club** — an AI-focused community for students & professionals in Ahmedabad
 - 🛠️ Currently building n8n automation pipelines, AI-powered FMCG procurement tools, and Next.js storefronts
 
 ---
