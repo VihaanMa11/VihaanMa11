@@ -1,62 +1,51 @@
-<h1 align="center">Hey, I'm Vihaan 👋</h1>
+## Selected work
 
-<h3 align="center">Software Developer · AI Automation Builder · Data Science Student</h3>
-
-<p align="center">
-  <a href="https://vihaanprtf.tech"><img src="https://img.shields.io/badge/Portfolio-vihaanprtf.tech-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vihaan-malani-94557a320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 💼 Software Developer at **A. Innovative Food Products Limited (AIFPL)** — building websites, AI automation tools (PO extractors, document parsers), and overseeing AI integration
-- 🎓 B.Sc Data Science student at **Karnavati University (UIT)**, Ahmedabad
-- 🛠️ Currently building n8n automation pipelines, AI-powered FMCG procurement tools, and Next.js storefronts
-
----
-
-### 🧰 Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,html,css,figma,git,github,vscode,vercel,supabase,postgres" />
-</p>
-
-**AI/Automation:** n8n · Gemini API · Claude API · LangChain-style pipelines  
-**Web:** Next.js 14 · React · Tailwind CSS · Vite  
-**Data:** Python · Pandas · Google Sheets API · PIL/Pillow  
-**Infra:** Supabase · Vercel · Google Cloud
-
----
-
-### 🔥 What I'm Working On
-
-- 🔄 An **n8n pipeline** that classifies FMCG procurement PDFs (PO/GRN/MRN) via Gemini AI and writes structured data into Google Sheets
-- 🛍️ Social media + ad ops for **Shareat Foods** (Foochka, Minimos) across Instagram, Facebook & Meta Ads
-- 🗺️ Geo-optimized **retail beat plans** for sales teams across Indian cities using real routing data
-- 🌐 Redesigning brand websites with modern Next.js + Tailwind stacks
-
----
-
-### 📊 GitHub Stats
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VihaanMa11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihaanMa11&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://www.gitskins.com/api/section/hero?username=vihaanma11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176682174%3Fv%3D4" alt="vihaanma11 hero visual" />
 </p>
+
+<h1>Vihaan Malani</h1>
+<p><b>Freelance developer or consultant</b></p>
+
+</div>
+
+## The idea behind the work
+
+> Building useful things and learning in public.
+
+- 👥 **0** followers · **3** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/VihaanMa11/blinkit-extraction-dashboard">blinkit-extraction-dashboard</a></b></td><td>Blinkit pin x SKU availability scraper with FastAPI dashboard (crawl4ai)<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/VihaanMa11/PadPilot">PadPilot</a></b></td><td>Gamepad coding remote for Cursor, Claude, Antigravity, and Wispr Flow — Install.bat and go.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/VihaanMa11/ai-audio-notify">ai-audio-notify</a></b></td><td>Audio notifications for Claude Code, Cursor, and Antigravity when tasks finish or need attention<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/VihaanMa11/POBridge">POBridge</a></b></td><td>Bridge PO, GRN, and MRN retail PDFs into one master Excel (Reliance · Metro · Dmart)<br/><sub>Python · 0 stars</sub></td></tr>
+</table>
+
+## Details worth noticing
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanMa11&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=vihaanma11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176682174%3Fv%3D4" alt="vihaanma11 highlights visual" />
 </p>
 
----
+<p><b>Vihaan Malani</b> is shipping 12 public projects with 0 stars of proof.</p>
 
-### 📫 Let's Connect
+## Creative toolkit
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) `Batchfile` `PowerShell`
+
+## Make something memorable
 
 <p align="center">
-  <a href="https://vihaanprtf.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-vihaanprtf.tech-orange?style=flat-square"/></a>
-  <a href="https://www.linkedin.com/in/vihaan-malani-94557a320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://www.gitskins.com/api/section/social?username=vihaanma11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176682174%3Fv%3D4" alt="vihaanma11 social visual" />
 </p>
 
-<p align="center"><i>⚡ Building at the intersection of FMCG, AI automation, and clean code.</i></p>
+<a href="https://github.com/vihaanma11">GitHub</a>
+
+<p align="center"><sub>Vihaan Malani · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
